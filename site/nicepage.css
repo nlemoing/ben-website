@@ -37580,14 +37580,14 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-table-alt-custom-color-2 tr:nth-child(even)
         {
             color: #ffffff;
-            background-color: rgba(149,97,183,0.47);
+            background-color: rgba(149,97,183,0.69);
         }
 
         .u-button-style.u-custom-color-2,
         .u-button-style.u-custom-color-2[class*="u-border-"]
         {
             color: #ffffff !important;
-            background-color: rgba(149,97,183,0.47) !important;
+            background-color: rgba(149,97,183,0.69) !important;
         }
 
         .u-button-style.u-custom-color-2:hover,
@@ -37602,7 +37602,7 @@ a.u-link.u-text-hover-grey-90:hover {
         li.active > .u-button-style.u-button-style.u-custom-color-2[class*="u-border-"]
         {
             color: #ffffff !important;
-            background-color: rgba(136,79,173,0.47) !important;
+            background-color: rgba(136,79,173,0.69) !important;
         }
 
         .u-hover-custom-color-2:hover,
@@ -37627,11 +37627,11 @@ a.u-link.u-text-hover-grey-90:hover {
         li.active > a.u-button-style.u-button-style.u-active-custom-color-2[class*="u-border-"]
         {
             color: #ffffff !important;
-            background-color: rgba(149,97,183,0.47) !important;
+            background-color: rgba(149,97,183,0.69) !important;
         }
 
         a.u-link.u-hover-custom-color-2:hover {
-            color: rgba(149,97,183,0.47) !important;
+            color: rgba(149,97,183,0.69) !important;
         }
 
         
@@ -37952,14 +37952,14 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-border-custom-color-2,
         .u-separator-custom-color-2:after
         {
-            border-color: rgba(149,97,183,0.47);
-            stroke: rgba(149,97,183,0.47);
+            border-color: rgba(149,97,183,0.69);
+            stroke: rgba(149,97,183,0.69);
         }
 
         .u-button-style.u-border-custom-color-2
         {
-            border-color: rgba(149,97,183,0.47) !important;
-            color: rgba(149,97,183,0.47) !important;
+            border-color: rgba(149,97,183,0.69) !important;
+            color: rgba(149,97,183,0.69) !important;
             background-color: transparent !important;
         }
 
@@ -37967,7 +37967,7 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-button-style.u-border-custom-color-2:focus
         {
             border-color: transparent !important;
-            color: rgba(136,79,173,0.47) !important;
+            color: rgba(136,79,173,0.69) !important;
             background-color: transparent !important;
         }
 
@@ -37982,18 +37982,18 @@ a.u-link.u-text-hover-grey-90:hover {
         a.u-button-style.u-button-style.active > .u-border-active-custom-color-2,
         li.active > a.u-button-style.u-button-style.u-border-active-custom-color-2
         {
-            color: rgba(149,97,183,0.47) !important;
-            border-color: rgba(149,97,183,0.47) !important;
+            color: rgba(149,97,183,0.69) !important;
+            border-color: rgba(149,97,183,0.69) !important;
         }
 
         .u-link.u-border-custom-color-2[class*="u-border-"]
         {
-            border-color: rgba(149,97,183,0.47) !important;
+            border-color: rgba(149,97,183,0.69) !important;
         }
 
         .u-link.u-border-custom-color-2[class*="u-border-"]:hover
         {
-            border-color: rgba(136,79,173,0.47) !important;
+            border-color: rgba(136,79,173,0.69) !important;
         }
         
         
@@ -38263,7 +38263,7 @@ a.u-link.u-text-hover-grey-90:hover {
         a.u-button-style.u-text-custom-color-2,
         a.u-button-style.u-text-custom-color-2[class*="u-border-"]
         {
-            color: rgba(149,97,183,0.47) !important;
+            color: rgba(149,97,183,0.69) !important;
         }
 
         a.u-button-style.u-text-custom-color-2:hover,
@@ -38275,7 +38275,7 @@ a.u-link.u-text-hover-grey-90:hover {
         a.u-button-style.u-button-style.u-text-custom-color-2.active,
         a.u-button-style.u-button-style.u-text-custom-color-2[class*="u-border-"].active
         {
-            color: rgba(136,79,173,0.47) !important;
+            color: rgba(136,79,173,0.69) !important;
         }
 
         a.u-button-style:hover > .u-text-hover-custom-color-2,
@@ -38301,7 +38301,7 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-popupmenu-items.u-text-hover-custom-color-2 .u-nav-link:hover,
         .u-popupmenu-items.u-popupmenu-items.u-text-active-custom-color-2 .u-nav-link.active
         {
-            color: rgba(149,97,183,0.47) !important;
+            color: rgba(149,97,183,0.69) !important;
         }
 
         .u-text-custom-color-2 .u-svg-link,
@@ -38310,17 +38310,17 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-button-style.u-button-style.active > .u-text-active-custom-color-2 .u-svg-link,
         .u-text-hover-custom-color-2:focus .u-svg-link
         {
-            fill: rgba(149,97,183,0.47);
+            fill: rgba(149,97,183,0.69);
         }
 
         .u-link.u-text-custom-color-2:hover
         {
-            color: rgba(136,79,173,0.47) !important;
+            color: rgba(136,79,173,0.69) !important;
         }
 
         a.u-link.u-text-hover-custom-color-2:hover
         {
-            color: rgba(149,97,183,0.47) !important;
+            color: rgba(149,97,183,0.69) !important;
         }
         
         
@@ -39024,8 +39024,8 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-footer .u-social-icons-1 {
   height: 32px;
   min-height: 16px;
-  width: 158px;
-  min-width: 94px;
+  width: 116px;
+  min-width: 68px;
   white-space: nowrap;
   margin: 39px auto 49px;
 }
@@ -39035,14 +39035,10 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-icon-2 {
-  color: rgb(197, 54, 164) !important;
-}
-
-.u-footer .u-icon-3 {
   color: rgb(0, 122, 185) !important;
 }
 
-.u-footer .u-icon-4 {
+.u-footer .u-icon-3 {
   height: 100%;
   color: rgb(219, 83, 75) !important;
 }

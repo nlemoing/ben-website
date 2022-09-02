@@ -9,12 +9,13 @@
 .u-section-1 .u-text-1 {
   font-size: 3rem;
   background-image: none;
-  margin: 69px auto 0;
+  margin: 59px auto 0;
 }
 
 .u-section-1 .u-text-2 {
   font-weight: 700;
-  margin: 18px 171px 0 195px;
+  width: 774px;
+  margin: 28px auto 0;
 }
 
 .u-section-1 .u-btn-1 {
@@ -31,11 +32,6 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-1 .u-text-2 {
-    margin-left: 95px;
-    margin-right: 71px;
-  }
-
   .u-section-1 .u-image-1 {
     margin-top: 33px;
     margin-bottom: 60px;
@@ -44,14 +40,23 @@
 
 @media (max-width: 991px) {
   .u-section-1 .u-text-2 {
-    margin-left: 0;
-    margin-right: 0;
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-2 {
+    width: 540px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
     min-height: 846px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 340px;
   }
 
   .u-section-1 .u-image-1 {
